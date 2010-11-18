@@ -8,7 +8,7 @@
 	cpack:packageName "foaf" ;
 	dcterms:title "The FOAF OWL schema" ;
 	cpack:author [ foaf:name "Jan Wielemaker" ;
-		       foaf:mbox "J.Wielemaker@cs.vu.nl" ;
+		       foaf:mbox <mailto:j.wielemaker@cs.vu.nl> ;
 		     ] ;
 	cpack:primaryRepository
 	    [ a cpack:GitRepository ;
