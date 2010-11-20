@@ -2,7 +2,7 @@
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix cpack:   <http://www.swi-prolog.org/cliopatria/cpack#> .
+@prefix cpack:   <http://cliopatria.swi-prolog.org/schema/cpack#> .
 
 <> a cpack:Ontology ;
 	cpack:packageName "foaf" ;
