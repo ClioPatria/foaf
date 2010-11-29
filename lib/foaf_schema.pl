@@ -1,4 +1,4 @@
-:- module(conf_foaf, []).
+:- module(foaf_schema, []).
 :- use_module(library(semweb/rdf_db)).
 :- use_module(library(semweb/rdf_library)).
 
